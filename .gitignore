@@ -1,0 +1,7 @@
+venv
+.idea
+.ipynb_checkpoints
+gcp_credentials/*
+__pycache__/*
+**/__pycache__/**
+

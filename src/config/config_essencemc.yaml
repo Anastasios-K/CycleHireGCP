@@ -1,0 +1,32 @@
+show_outcome: False
+
+paths:
+  gcp_credential_dir: "gcp_credentials"
+  gcp_credential_file: "essencemc-521b0b519bef.json"
+  london_geodata_dir: "London_geodata"
+  london_geodata_file: "london_boroughs.json"
+  plots_path: "figures"
+  eda_report: "eda_report"
+  model_results: "model_results"
+
+database:
+  tables:
+    hire_table: "cycle_hire"
+    station_table: "cycle_stations"
+  myproject: "essencemc"
+  mydataset: "EssenceMCDatasset"
+  mytable: "cycle_station_data_with_borough_names"
+
+plotting_default:
+  title_color: "#000000"
+  title_font_style: "Arial"
+  title_font_size: 20
+  axes_line_width: 2
+  axes_line_color: "#000000"
+  cmap: "Blues"
+  colour1: "#0076A8"  # dark turkuaz
+  colour2: "#43B02A"  # bright green
+  colour3: "#53565A"  # grey
+  colour4: "#DA291C"  # red
+
+random_state: 5
