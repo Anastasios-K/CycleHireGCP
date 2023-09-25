@@ -1,5 +1,4 @@
 # **Cycle Hire Project**
-[![Maintainability](https://api.codeclimate.com/v1/badges/586edac1a63049e5299c/maintainability)](https://codeclimate.com/github/Anastasios-K/Crypto_Prise_Prediction/maintainability)
 
 ---
 
@@ -21,11 +20,14 @@
 - [Relevant reading](#Relevant-reading)
 
 ## Overview
-An ML pipeline for time-series (stock price) classification which is developed taking into consideration \
-the main principles of Object-Oriented and Data-Oriented Programming. The current Data-Oriented Strategy \
-Pattern allows users to change the behavior of the pipeline, choosing between different TensorFlow\Keras \
-algorithms. This design also assures the execution of mandatory steps whereas, at the same time, it gives \
-access to a number of optional functions. For more detail, look at the [Pipeline](#The-Pipeline) section.
+An ML project is being undertaken to analyze and model cycle hire data from Google Cloud Platform (GCP). \
+In this project, extensive data processing and visual analytics are employed to extract valuable insights  \
+from the dataset. Additionally, visually appealing figures are being generated to effectively convey these \
+insights. Following the necessary preprocessing and data engineering, the data is being modeled to predict \
+the demand at the top 20 busiest cycle stations. H2O AutoML is currently being utilized for this purpose. \
+Nevertheless, it is acknowledged that the unique characteristics of the dataset allow for further \
+experimentation and refinement.
+
 
 ## How to use
 
