@@ -28,10 +28,9 @@ $ python -m venv my_venv_name
 ```
 $ pip install -r requirements.txt
 ``` 
-- Modify data_path parameter, in the path field of the 
-  [config-file](https://github.com/Anastasios-K/Stock_Price_Prediction_with_Bi-Directional_LSTM/blob/main/src/config/config.yaml), \
-  
-- Run main.ipynb through the command line.
+- Running the whole pipeline result in creating and saving files.
+- Modify the directory names in the config_essencemc.yaml file.
+- Run the main.ipynb file to run the whole pipeline.
   
 
 
