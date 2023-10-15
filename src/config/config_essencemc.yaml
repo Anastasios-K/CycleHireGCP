@@ -1,13 +1,16 @@
-show_outcome: False
+show_outcome: True
 
 paths:
-  gcp_credential_dir: "gcp_credentials"
-  gcp_credential_file: "essencemc-521b0b519bef.json"
-  london_geodata_dir: "London_geodata"
-  london_geodata_file: "london_boroughs.json"
-  plots_path: "figures"
-  eda_report: "eda_report"
-  model_results: "model_results"
+  existing_paths:
+    gcp_credential_dir: "gcp_credentials"
+    gcp_credential_file: "essencemc-521b0b519bef.json"
+    london_geodata_dir: "London_geodata"
+    london_geodata_file: "london_boroughs.json"
+
+  paths2create:
+    plots_path: "figures"
+    eda_report: "eda_report"
+    model_results: "model_results"
 
 database:
   tables:
