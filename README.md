@@ -36,11 +36,15 @@ $ pip install -r requirements.txt
 
 ## Exploration exaples
 
-### Daily and Weekly usage plot
+### Daily and Weekly usage
 
 ![Daily and Weekly Usage Distribution](images/Daily_and_weekly_usage_distribution.png)
 
+### Busiest starting stations in rides per year
 
-  
+![Busiest starting stations in rides per year](images/Busiest_starting_stations_in_rides_per_year.png)
+
+### Most profitable stations per year
+![Most profitable stations per year](images/Most_profitable_stations_per_year.png)
 
 
