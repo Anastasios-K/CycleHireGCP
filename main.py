@@ -20,7 +20,7 @@ class LondonCyclePipelineRunner:
 
 if __name__ == "__main__":
    
-    CONFIG_PATH = os.path.join("src", "config", "config_essencemc.yaml")
+    CONFIG_PATH = os.path.join("src", "config", "config.yaml")
     run = LondonCyclePipelineRunner(config_path=CONFIG_PATH)
     
     print(run.run.info_tracker.__dict__)
