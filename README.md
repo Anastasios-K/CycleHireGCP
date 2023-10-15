@@ -36,7 +36,7 @@ $ pip install -r requirements.txt
 
 ## Exploration exaples
 
-![Daily and Weekly Usage Distribution](Daily_and_weekly_usage_distribution.html)
+![Daily and Weekly Usage Distribution](figures/Daily_and_weekly_usage_distribution.html)
 
 
   
