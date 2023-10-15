@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#Overview)
 - [How to use](#How-to-use)
+- [Exploration exaples](#Exploration-exaples)
 
 ## Overview
 An ML project is being undertaken to analyze and model cycle hire data from Google Cloud Platform (GCP). \
@@ -18,8 +19,6 @@ experimentation and refinement.
 
 ## How to use
 
-#### <span style="color:#00A3E0">1. Run it without using the Docker file</span>
-
 - Create virtual environment.
 ```
 $ python -m venv my_venv_name
@@ -31,6 +30,13 @@ $ pip install -r requirements.txt
 - Running the whole pipeline result in creating and saving files.
 - Modify the directory names in the config_essencemc.yaml file.
 - Run the main.ipynb file to run the whole pipeline.
+
+
+## Exploration exaples
+
+![Daily and Weekly Usage Distribution](daily_and_weekly_usage_distribution.html)
+
+
   
 
 
